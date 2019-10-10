@@ -1,0 +1,7 @@
+{
+  "name": "m3-mandapam",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
